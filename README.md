@@ -5,6 +5,10 @@
 
 【优营人数：104】[电子学院](https://ele.pku.edu.cn/info/1232/3182.htm)
 
+【优营人数：80】[智能学院](https://www.cis.pku.edu.cn/info/1034/3079.htm)
+
+【优营人数：87】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/7e29ce0d18ae4e1696de825b27c40ed3.htm)
+
 ## 同济大学
 
 【优营人数：68】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1012/3608.htm)
