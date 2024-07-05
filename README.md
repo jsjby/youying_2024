@@ -7,6 +7,8 @@
 
 【优营人数：80】[智能学院](https://www.cis.pku.edu.cn/info/1034/3079.htm)
 
+【优营人数：142】[计算机学院](https://cs.pku.edu.cn/info/1022/3203.htm)
+
 【优营人数：87】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/7e29ce0d18ae4e1696de825b27c40ed3.htm)
 
 ## 西安交通大学
@@ -17,6 +19,8 @@
 
 【优营人数：68】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1012/3608.htm)
 
+【优营人数：330】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12786.htm)
+
 ## 中国科学院大学
 
 【优营人数：65】[智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1731.htm)
@@ -24,5 +28,9 @@
 ## 天津大学
 
 【优营人数：3】[智能与计算学部（国优）](https://cic.tju.edu.cn/info/1041/4998.htm)
+
+## 华中师范大学
+
+【优营人数：47】[计算机学院](https://cs.ccnu.edu.cn/info/1056/4371.htm)
 
 
