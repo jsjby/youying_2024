@@ -11,9 +11,17 @@
 
 【优营人数：87】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/7e29ce0d18ae4e1696de825b27c40ed3.htm)
 
+## 浙江大学
+
+【优营人数：15】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2024/0706/c65358a2944053/page.htm)
+
 ## 西安交通大学
 
 【优营人数：22】[电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2777.htm)
+
+## 北京航空航天大学
+
+【优营人数：12】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11352)
 
 ## 同济大学
 
@@ -28,6 +36,10 @@
 ## 天津大学
 
 【优营人数：3】[智能与计算学部（国优）](https://cic.tju.edu.cn/info/1041/4998.htm)
+
+## 电子科技大学
+
+【优营人数：105】[计算机（网安）](https://www.scse.uestc.edu.cn/info/1015/16308.htm)
 
 ## 华中师范大学
 
