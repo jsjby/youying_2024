@@ -11,7 +11,13 @@
 
 【优营人数：142】[计算机学院](https://cs.pku.edu.cn/info/1022/3203.htm)
 
+【优营人数：59】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1801)
+
 【优营人数：87】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/7e29ce0d18ae4e1696de825b27c40ed3.htm)
+
+## 南京大学
+
+【优营人数：14】[高端控制与智能运维研发中心](https://cacso.nju.edu.cn/b3/65/c55718a701285/page.htm)
 
 ## 浙江大学
 
@@ -24,6 +30,8 @@
 ## 北京航空航天大学
 
 【优营人数：12】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11352)
+
+【优营人数：327】[大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2284.htm)
 
 ## 同济大学
 
@@ -62,6 +70,10 @@
 ## 西南大学
 
 【优营人数：34】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1146/4835.htm)
+
+## 北京语言大学
+
+【优营人数：35】[语言认知科学学科创新引智基地](https://ccsl.blcu.edu.cn/info/1014/2326.htm)
 
 ## 中央财经政法大学
 
