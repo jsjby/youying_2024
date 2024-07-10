@@ -51,9 +51,17 @@
 
 【优营人数：78】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5889.htm)
 
+## 中山大学
+
+【优营人数：57】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1067)
+
 ## 电子科技大学
 
 【优营人数：105】[计算机（网安）](https://www.scse.uestc.edu.cn/info/1015/16308.htm)
+
+## 吉林大学
+
+【优营人数：88】[通信工程学院](https://dce.jlu.edu.cn/info/1032/10512.htm)
 
 ## 大连理工大学
 
@@ -66,6 +74,10 @@
 ## 新疆大学
 
 【优营人数：9】[智能科学与技术学院](https://wljs.xju.edu.cn/info/1046/1418.htm)
+
+## 上海理工大学
+
+【优营人数：35】[光电学院](https://oece.usst.edu.cn/2024/0709/c9009a323751/page.htm)
 
 ## 西南大学
 
