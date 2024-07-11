@@ -51,6 +51,10 @@
 
 【优营人数：78】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5889.htm)
 
+## 武汉大学
+
+【优营人数：137】[遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/97790.htm)
+
 ## 中山大学
 
 【优营人数：57】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1067)
@@ -94,5 +98,9 @@
 ## 首都体育学院
 
 【优营人数：9】[体育人工智能研究院](https://mp.weixin.qq.com/s/ftqEMtJ6nGZ-pT01ShXv3w)
+
+## 南京农业大学
+
+【优营人数：23】[人工智能学院](https://ai.njau.edu.cn/info/1009/3529.htm)
 
 
