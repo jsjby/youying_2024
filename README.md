@@ -1,6 +1,10 @@
 # youying_2024
 2024年夏令营优秀营员
 
+## 清华大学
+
+【优营人数：102】[集成电路学院](https://www.ime.tsinghua.edu.cn/info/1086/1948.htm)
+
 ## 北京大学
 
 【优营人数：104】[电子学院](https://ele.pku.edu.cn/info/1232/3182.htm)
@@ -12,6 +16,8 @@
 【优营人数：142】[计算机学院](https://cs.pku.edu.cn/info/1022/3203.htm)
 
 【优营人数：59】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1801)
+
+【优营人数：150】[软件与微电子学院](https://www.ss.pku.edu.cn/admission/admnotice/4591.html)
 
 【优营人数：87】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/7e29ce0d18ae4e1696de825b27c40ed3.htm)
 
@@ -35,6 +41,8 @@
 
 ## 同济大学
 
+【优营人数：30】[软件学院](https://sse.tongji.edu.cn/info/1132/5214.htm)
+
 【优营人数：68】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1012/3608.htm)
 
 【优营人数：330】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12786.htm)
@@ -55,13 +63,27 @@
 
 【优营人数：137】[遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/97790.htm)
 
+【优营人数：119】[电子信息学院](http://eis.whu.edu.cn/index/newListDetail_zw?newsinfo_id=53a3bcc89f0944609091238c94e6071b)
+
 ## 中山大学
 
 【优营人数：57】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1067)
 
+## 中山大学
+
+【优营人数：26】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3344.htm)
+
+【优营人数：44】[计算机学院](https://cse.csu.edu.cn/info/1040/9692.htm)
+
+【优营人数：140】[自动化学院](https://soa.csu.edu.cn/info/1032/8050.htm)
+
 ## 电子科技大学
 
 【优营人数：105】[计算机（网安）](https://www.scse.uestc.edu.cn/info/1015/16308.htm)
+
+【优营人数：19】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/12701.htm)
+
+【优营人数：101】[通信抗干扰全国重点实验室](https://www.ncl.uestc.edu.cn/info/1083/3111.htm)
 
 ## 吉林大学
 
@@ -102,5 +124,9 @@
 ## 南京农业大学
 
 【优营人数：23】[人工智能学院](https://ai.njau.edu.cn/info/1009/3529.htm)
+
+## 广州大学
+
+【优营人数：35】[数学与信息科学学院](https://maths.gzhu.edu.cn/info/1066/5468.htm)
 
 
