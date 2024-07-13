@@ -43,6 +43,8 @@
 
 【优营人数：30】[软件学院](https://sse.tongji.edu.cn/info/1132/5214.htm)
 
+【优营人数：45】[测绘与地理信息学院](https://celiang.tongji.edu.cn/info/1205/3961.htm)
+
 【优营人数：68】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1012/3608.htm)
 
 【优营人数：330】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/12786.htm)
@@ -61,13 +63,11 @@
 
 ## 武汉大学
 
+【优营人数：162】[计算机学院](https://cs.whu.edu.cn/info/1071/44971.htm)
+
 【优营人数：137】[遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/97790.htm)
 
 【优营人数：119】[电子信息学院](http://eis.whu.edu.cn/index/newListDetail_zw?newsinfo_id=53a3bcc89f0944609091238c94e6071b)
-
-## 中山大学
-
-【优营人数：57】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1067)
 
 ## 中山大学
 
@@ -87,7 +87,13 @@
 
 ## 吉林大学
 
+【优营人数：75】[人工智能学院](https://sai.jlu.edu.cn/info/1033/4743.htm)
+
 【优营人数：88】[通信工程学院](https://dce.jlu.edu.cn/info/1032/10512.htm)
+
+## 湖南大学
+
+【优营人数：50】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1909.htm)
 
 ## 大连理工大学
 
@@ -128,5 +134,10 @@
 ## 广州大学
 
 【优营人数：35】[数学与信息科学学院](https://maths.gzhu.edu.cn/info/1066/5468.htm)
+
+## 暨南大学
+
+【优营人数：47】[信息科学技术/网络空间安全学院](https://xxxy.jnu.edu.cn/2024/0712/c27469a818054/page.htm)
+
 
 
