@@ -11,6 +11,8 @@
 
 【优营人数：38】[医学部医学技术研究院](https://imt.bjmu.edu.cn/tzgg/dc69e077e2c44d90b20e7bfe48a6914a.htm)
 
+【优营人数：96】[信息工程学院](https://www.ece.pku.edu.cn/info/1027/2806.htm)
+
 【优营人数：80】[智能学院](https://www.cis.pku.edu.cn/info/1034/3079.htm)
 
 【优营人数：142】[计算机学院](https://cs.pku.edu.cn/info/1022/3203.htm)
@@ -32,6 +34,10 @@
 ## 西安交通大学
 
 【优营人数：22】[电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2777.htm)
+
+## 国防科技大学
+
+【优营人数：240】[计算机学院（第一批）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13867)
 
 ## 北京航空航天大学
 
