@@ -23,6 +23,8 @@
 
 【优营人数：87】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/7e29ce0d18ae4e1696de825b27c40ed3.htm)
 
+【优营人数：45】[未来技术学院](https://future.pku.edu.cn/xwzk/fb71ac803ff341ff8e071ed4823d2efe.htm)
+
 ## 南京大学
 
 【优营人数：14】[高端控制与智能运维研发中心](https://cacso.nju.edu.cn/b3/65/c55718a701285/page.htm)
@@ -105,6 +107,10 @@
 
 【优营人数：117】[软件学院](https://ss.dlut.edu.cn/info/1122/29062.htm)
 
+【优营人数：75】[计算机学院](https://cs.dlut.edu.cn/info/1256/3649.htm)
+
+【优营人数：87】[信通学院](https://ice.dlut.edu.cn/info/1208/3786.htm)
+
 ## 华中师范大学
 
 【优营人数：47】[计算机学院](https://cs.ccnu.edu.cn/info/1056/4371.htm)
@@ -112,6 +118,8 @@
 ## 新疆大学
 
 【优营人数：9】[智能科学与技术学院](https://wljs.xju.edu.cn/info/1046/1418.htm)
+
+【优营人数：24】[计算机科学与技术学院](https://it.xju.edu.cn/info/1101/3176.htm)
 
 ## 上海理工大学
 
@@ -124,6 +132,10 @@
 ## 北京语言大学
 
 【优营人数：35】[语言认知科学学科创新引智基地](https://ccsl.blcu.edu.cn/info/1014/2326.htm)
+
+## 北京电子科技学院
+
+【优营人数：53】[北京电子科技学院](https://www.besti.edu.cn/600/2130.html)
 
 ## 中央财经政法大学
 
