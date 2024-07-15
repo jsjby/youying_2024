@@ -75,7 +75,7 @@
 
 【优营人数：119】[电子信息学院](http://eis.whu.edu.cn/index/newListDetail_zw?newsinfo_id=53a3bcc89f0944609091238c94e6071b)
 
-## 中山大学
+## 中南大学
 
 【优营人数：26】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3344.htm)
 
