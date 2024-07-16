@@ -47,11 +47,17 @@
 
 【优营人数：327】[大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2284.htm)
 
+## 北京理工大学
+
+【优营人数：82】[医学技术学院](https://smt.bit.edu.cn/tzgg/5683c2956b7446d79d1a0e78fc34ba46.htm)
+
 ## 同济大学
 
 【优营人数：30】[软件学院](https://sse.tongji.edu.cn/info/1132/5214.htm)
 
 【优营人数：45】[测绘与地理信息学院](https://celiang.tongji.edu.cn/info/1205/3961.htm)
+
+【优营人数：80】[上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/27/a7/c17827a337831/page.htm)
 
 【优营人数：68】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1012/3608.htm)
 
@@ -69,6 +75,10 @@
 
 【优营人数：78】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5889.htm)
 
+## 厦门大学
+
+【优营人数：52】[人工智能学院](https://iai.xmu.edu.cn/info/1110/4084.htm)
+
 ## 武汉大学
 
 【优营人数：162】[计算机学院](https://cs.whu.edu.cn/info/1071/44971.htm)
@@ -77,9 +87,15 @@
 
 【优营人数：119】[电子信息学院](http://eis.whu.edu.cn/index/newListDetail_zw?newsinfo_id=53a3bcc89f0944609091238c94e6071b)
 
+## 中山大学
+
+【优营人数：105】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1011)
+
 ## 中南大学
 
 【优营人数：26】[大数据研究院](https://bdi.csu.edu.cn/info/1063/3344.htm)
+
+【优营人数：58】[电子信息学院](https://ei.csu.edu.cn/info/1085/1608.htm)
 
 【优营人数：44】[计算机学院](https://cse.csu.edu.cn/info/1040/9692.htm)
 
@@ -93,15 +109,25 @@
 
 【优营人数：101】[通信抗干扰全国重点实验室](https://www.ncl.uestc.edu.cn/info/1083/3111.htm)
 
+## 华东师范大学
+
+【优营人数：25】[通信与电子工程学院](http://www.cee.ecnu.edu.cn/70/a3/c4170a618659/page.htm)
+
 ## 吉林大学
 
 【优营人数：75】[人工智能学院](https://sai.jlu.edu.cn/info/1033/4743.htm)
 
 【优营人数：88】[通信工程学院](https://dce.jlu.edu.cn/info/1032/10512.htm)
 
+【优营人数：127】[计算机科学与技术学院](https://ccst.jlu.edu.cn/info/1229/19723.htm)
+
+【优营人数：112】[软件学院](https://csw.jlu.edu.cn/info/1156/7303.htm)
+
 ## 湖南大学
 
 【优营人数：50】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1909.htm)
+
+【优营人数：97】[机器人学院](https://robotics.hnu.edu.cn/info/1074/2710.htm)
 
 ## 大连理工大学
 
@@ -144,6 +170,10 @@
 ## 首都体育学院
 
 【优营人数：9】[体育人工智能研究院](https://mp.weixin.qq.com/s/ftqEMtJ6nGZ-pT01ShXv3w)
+
+## 中央民族大学
+
+【优营人数：51】[信息工程学院](https://xingong.muc.edu.cn/info/1037/4285.htm)
 
 ## 南京农业大学
 
