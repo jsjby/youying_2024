@@ -25,9 +25,15 @@
 
 【优营人数：45】[未来技术学院](https://future.pku.edu.cn/xwzk/fb71ac803ff341ff8e071ed4823d2efe.htm)
 
+## 上海交通大学
+
+【优营人数：112】[医学工程学院（含Med-X研究院）](https://bme.sjtu.edu.cn/Web/Show/3521)
+
 ## 南京大学
 
 【优营人数：14】[高端控制与智能运维研发中心](https://cacso.nju.edu.cn/b3/65/c55718a701285/page.htm)
+
+【优营人数：26】[现代生物研究院](https://imb.nju.edu.cn/yjyxw/20240715/i270904.html)
 
 ## 浙江大学
 
@@ -81,6 +87,8 @@
 
 ## 武汉大学
 
+【优营人数：135】[测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16703.htm)
+
 【优营人数：162】[计算机学院](https://cs.whu.edu.cn/info/1071/44971.htm)
 
 【优营人数：137】[遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/97790.htm)
@@ -90,6 +98,10 @@
 ## 中山大学
 
 【优营人数：105】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1011)
+
+【优营人数：25】[人工智能学院](https://sai.sysu.edu.cn/notice/1416390.htm)
+
+【优营人数：57】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1067)
 
 ## 中南大学
 
@@ -112,6 +124,8 @@
 ## 华东师范大学
 
 【优营人数：25】[通信与电子工程学院](http://www.cee.ecnu.edu.cn/70/a3/c4170a618659/page.htm)
+
+【优营人数：70】[计算机学院](http://www.cs.ecnu.edu.cn/72/6b/c19867a619115/page.htm)
 
 ## 吉林大学
 
@@ -136,6 +150,10 @@
 【优营人数：75】[计算机学院](https://cs.dlut.edu.cn/info/1256/3649.htm)
 
 【优营人数：87】[信通学院](https://ice.dlut.edu.cn/info/1208/3786.htm)
+
+## 南京邮电大学
+
+【优营人数：80】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0717/c2277a267852/page.htm)
 
 ## 华中师范大学
 
