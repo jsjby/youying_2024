@@ -47,6 +47,8 @@
 
 【优营人数：240】[计算机学院（第一批）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13867)
 
+【优营人数：100】[电子对抗学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13869)
+
 ## 北京航空航天大学
 
 【优营人数：12】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11352)
@@ -77,6 +79,8 @@
 
 【优营人数：3】[智能与计算学部（国优）](https://cic.tju.edu.cn/info/1041/4998.htm)
 
+【优营人数：43】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4341)
+
 ## 南开大学
 
 【优营人数：78】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5889.htm)
@@ -84,6 +88,8 @@
 ## 厦门大学
 
 【优营人数：52】[人工智能学院](https://iai.xmu.edu.cn/info/1110/4084.htm)
+
+【优营人数：126】[信息学院](https://informatics.xmu.edu.cn/info/1050/39729.htm)
 
 ## 武汉大学
 
@@ -176,6 +182,10 @@
 ## 北京语言大学
 
 【优营人数：35】[语言认知科学学科创新引智基地](https://ccsl.blcu.edu.cn/info/1014/2326.htm)
+
+## 北京工业大学
+
+【优营人数：108】[信息科学技术学院](https://yanzhao.bjut.edu.cn/info/1739/15980.htm)
 
 ## 北京电子科技学院
 
