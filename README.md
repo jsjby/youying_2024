@@ -49,11 +49,15 @@
 
 【优营人数：140】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20240719100.html)
 
+【优营人数：60】[统计与大数据研究院](http://isbd.ruc.edu.cn/xwgg/895285cf1e7047b190403760ef18547e.htm)
+
 ## 国防科技大学
 
 【优营人数：240】[计算机学院（第一批）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13867)
 
 【优营人数：100】[电子对抗学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13869)
+
+【优营人数：383】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13873)
 
 ## 北京航空航天大学
 
@@ -99,6 +103,8 @@
 
 【优营人数：126】[信息学院](https://informatics.xmu.edu.cn/info/1050/39729.htm)
 
+【优营人数：11】[电影学院](https://film.xmu.edu.cn/info/1208/13495.htm)
+
 ## 武汉大学
 
 【优营人数：135】[测绘遥感信息工程国家重点实验室](https://liesmars.whu.edu.cn/info/1058/16703.htm)
@@ -116,6 +122,10 @@
 【优营人数：25】[人工智能学院](https://sai.sysu.edu.cn/notice/1416390.htm)
 
 【优营人数：57】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1067)
+
+【优营人数：44】[网络空间安全学院](https://scst.sysu.edu.cn/rc/rc02/1416424.htm)
+
+【优营人数：74】[软件工程学院](https://sse.sysu.edu.cn/article/756)
 
 ## 中南大学
 
