@@ -111,6 +111,8 @@
 
 【优营人数：162】[计算机学院](https://cs.whu.edu.cn/info/1071/44971.htm)
 
+【优营人数：189】[国家网络安全学院](https://cse.whu.edu.cn/info/1102/24022.htm)
+
 【优营人数：137】[遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/97790.htm)
 
 【优营人数：119】[电子信息学院](http://eis.whu.edu.cn/index/newListDetail_zw?newsinfo_id=53a3bcc89f0944609091238c94e6071b)
