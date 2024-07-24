@@ -29,6 +29,10 @@
 
 【优营人数：112】[医学工程学院（含Med-X研究院）](https://bme.sjtu.edu.cn/Web/Show/3521)
 
+【优营人数：579】[电子信息与电气工程学院（直硕）](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/10489.html)
+
+【优营人数：620】[电子信息与电气工程学院（直博）](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_bszs/10498.html)
+
 ## 南京大学
 
 【优营人数：14】[高端控制与智能运维研发中心](https://cacso.nju.edu.cn/b3/65/c55718a701285/page.htm)
@@ -50,6 +54,8 @@
 【优营人数：140】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20240719100.html)
 
 【优营人数：60】[统计与大数据研究院](http://isbd.ruc.edu.cn/xwgg/895285cf1e7047b190403760ef18547e.htm)
+
+【优营人数：108】[智慧治理学院](http://zhzl.ruc.edu.cn/tzgg/d00635add4d54a21a7d857990b3621bb.htm)
 
 ## 国防科技大学
 
@@ -179,9 +185,17 @@
 
 【优营人数：87】[信通学院](https://ice.dlut.edu.cn/info/1208/3786.htm)
 
+## 中国科学院
+
+【优营人数：93】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202407/t20240723_7234231.html)
+
 ## 南京邮电大学
 
 【优营人数：80】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0717/c2277a267852/page.htm)
+
+## 南京师范大学
+
+【优营人数：208】[计算机与电子信息学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=19289)
 
 ## 华中师范大学
 
@@ -213,6 +227,8 @@
 
 【优营人数：108】[信息科学技术学院](https://yanzhao.bjut.edu.cn/info/1739/15980.htm)
 
+【优营人数：98】[计算机学院](https://yanzhao.bjut.edu.cn/info/1739/16126.htm)
+
 ## 北京电子科技学院
 
 【优营人数：53】[北京电子科技学院](https://www.besti.edu.cn/600/2130.html)
@@ -228,6 +244,16 @@
 ## 中央民族大学
 
 【优营人数：51】[信息工程学院](https://xingong.muc.edu.cn/info/1037/4285.htm)
+
+## 中国传媒大学
+
+【优营人数：58】[信息与通信工程学院](https://yz.cuc.edu.cn/2024/0719/c8544a235047/page.htm)
+
+【优营人数：20】[计算机与网络空间安全学院](https://yz.cuc.edu.cn/2024/0719/c8544a235047/page.htm)
+
+【优营人数：19】[数据科学与智能媒体学院](https://yz.cuc.edu.cn/2024/0719/c8544a235047/page.htm)
+
+【优营人数：61】[媒体融合与传播国家重点实验室](https://yz.cuc.edu.cn/2024/0719/c8544a235047/page.htm)
 
 ## 南京农业大学
 
