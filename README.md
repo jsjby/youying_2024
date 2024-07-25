@@ -159,6 +159,10 @@
 
 【优营人数：70】[计算机学院](http://www.cs.ecnu.edu.cn/72/6b/c19867a619115/page.htm)
 
+## 华中科技大学
+
+【优营人数：119】[武汉光电国家研究中心](https://wnlo.hust.edu.cn/info/1178/12603.htm)
+
 ## 吉林大学
 
 【优营人数：75】[人工智能学院](https://sai.jlu.edu.cn/info/1033/4743.htm)
