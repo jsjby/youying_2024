@@ -65,6 +65,8 @@
 
 【优营人数：383】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13873)
 
+【优营人数：118】[前沿交叉学科学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13896)
+
 ## 北京航空航天大学
 
 【优营人数：12】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11352)
@@ -134,6 +136,8 @@
 【优营人数：44】[网络空间安全学院](https://scst.sysu.edu.cn/rc/rc02/1416424.htm)
 
 【优营人数：74】[软件工程学院](https://sse.sysu.edu.cn/article/756)
+
+【优营人数：48】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1416456.htm)
 
 ## 中南大学
 
