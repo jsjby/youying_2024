@@ -33,6 +33,10 @@
 
 【优营人数：620】[电子信息与电气工程学院（直博）](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_bszs/10498.html)
 
+【优营人数：51】[溥渊未来技术学院（直博）](https://gift.sjtu.edu.cn/2024/0728/c4998a8750/page.htm)
+
+【优营人数：34】[溥渊未来技术学院 （直硕）](https://gift.sjtu.edu.cn/2024/0731/c4874a8839/page.htm)
+
 ## 南京大学
 
 【优营人数：14】[高端控制与智能运维研发中心](https://cacso.nju.edu.cn/b3/65/c55718a701285/page.htm)
@@ -198,6 +202,8 @@
 ## 中国科学院
 
 【优营人数：93】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202407/t20240723_7234231.html)
+
+【优营人数：107】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240731_7238722.html)
 
 ## 南京邮电大学
 
