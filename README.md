@@ -69,6 +69,8 @@
 
 【优营人数：383】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13873)
 
+【优营人数：180】[电子科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13899)
+
 【优营人数：118】[前沿交叉学科学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13896)
 
 ## 北京航空航天大学
