@@ -25,6 +25,8 @@
 
 【优营人数：45】[未来技术学院](https://future.pku.edu.cn/xwzk/fb71ac803ff341ff8e071ed4823d2efe.htm)
 
+【优营人数：60】[新材料学院](https://sam.pkusz.edu.cn/info/1067/1847.htm)
+
 ## 上海交通大学
 
 【优营人数：112】[医学工程学院（含Med-X研究院）](https://bme.sjtu.edu.cn/Web/Show/3521)
@@ -126,6 +128,8 @@
 【优营人数：162】[计算机学院](https://cs.whu.edu.cn/info/1071/44971.htm)
 
 【优营人数：189】[国家网络安全学院](https://cse.whu.edu.cn/info/1102/24022.htm)
+
+【优营人数：80】[湖北国家应用数学中心](https://mds.whu.edu.cn/info/1101/2781.htm)
 
 【优营人数：137】[遥感信息工程学院](https://rsgis.whu.edu.cn/info/1083/97790.htm)
 
