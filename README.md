@@ -211,6 +211,10 @@
 
 【优营人数：107】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240731_7238722.html)
 
+## 北京交通大学
+
+【优营人数：82】[计算机科学与技术学院、网络空间安全学院](https://cs.bjtu.edu.cn/zsjy/yjszs3/yjszs_sszs/202313391.htm)
+
 ## 南京邮电大学
 
 【优营人数：80】[自动化学院、人工智能学院](https://coa.njupt.edu.cn/2024/0717/c2277a267852/page.htm)
