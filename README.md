@@ -81,6 +81,8 @@
 
 【优营人数：327】[大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2284.htm)
 
+【优营人数：28】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2249.htm)
+
 ## 北京理工大学
 
 【优营人数：82】[医学技术学院](https://smt.bit.edu.cn/tzgg/5683c2956b7446d79d1a0e78fc34ba46.htm)
