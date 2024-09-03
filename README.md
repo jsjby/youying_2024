@@ -107,6 +107,8 @@
 
 【优营人数：24】[福州国际联合学院](http://fz.tju.edu.cn/info/1029/1633.htm)
 
+【优营人数：246】[医学院](https://mctu.tju.edu.cn/info/1061/3702.htm)
+
 【优营人数：3】[智能与计算学部（国优）](https://cic.tju.edu.cn/info/1041/4998.htm)
 
 【优营人数：43】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4341)
@@ -122,6 +124,18 @@
 【优营人数：126】[信息学院](https://informatics.xmu.edu.cn/info/1050/39729.htm)
 
 【优营人数：11】[电影学院](https://film.xmu.edu.cn/info/1208/13495.htm)
+
+## 东南大学
+
+【优营人数：70】[计算机科学与工程学院-学硕](https://cs.seu.edu.cn/2024/0901/c49342a501556/page.htm)
+
+【优营人数：56】[计算机科学与工程学院-专硕](https://cs.seu.edu.cn/2024/0901/c49342a501558/page.htm)
+
+【优营人数：16】[计算机科学与工程学院-直博](https://cose.seu.edu.cn/2024/0901/c49342a501555/page.htm)
+
+【优营人数：72】[软件学院](https://cose.seu.edu.cn/2024/0901/c49342a501559/page.htm)
+
+【优营人数：22】[苏州联合研究生院计算机技术/人工智能方向](https://smjgs.seu.edu.cn/2024/0902/c8471a501567/page.htm)
 
 ## 武汉大学
 
