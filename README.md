@@ -67,6 +67,8 @@
 
 【优营人数：240】[计算机学院（第一批）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13867)
 
+【优营人数：227】[计算机学院（第二批）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13901)
+
 【优营人数：100】[电子对抗学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13869)
 
 【优营人数：383】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13873)
@@ -134,6 +136,8 @@
 【优营人数：16】[计算机科学与工程学院-直博](https://cose.seu.edu.cn/2024/0901/c49342a501555/page.htm)
 
 【优营人数：72】[软件学院](https://cose.seu.edu.cn/2024/0901/c49342a501559/page.htm)
+
+【优营人数：57】[网络空间安全学院](https://cyber.seu.edu.cn/2024/0903/c18223a501881/page.htm)
 
 【优营人数：22】[苏州联合研究生院计算机技术/人工智能方向](https://smjgs.seu.edu.cn/2024/0902/c8471a501567/page.htm)
 
