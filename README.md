@@ -113,6 +113,10 @@
 
 【优营人数：3】[智能与计算学部（国优）](https://cic.tju.edu.cn/info/1041/4998.htm)
 
+【优营人数：50】[微电子学院](https://sme.tju.edu.cn/info/1095/2978.htm)
+
+【优营人数：101】[智能与计算学部](https://cic.tju.edu.cn/info/1041/5053.htm)
+
 【优营人数：43】[佐治亚理工深圳学院](https://www.gtsi.edu.cn/node/4341)
 
 ## 南开大学
@@ -230,6 +234,10 @@
 【优营人数：93】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202407/t20240723_7234231.html)
 
 【优营人数：107】[国家空间科学中心](http://www.nssc.cas.cn/yjsb/zsxx/zsdt/202407/t20240731_7238722.html)
+
+## 西安电子科技大学
+
+【优营人数：141】[杭州研究院](https://hz.xidian.edu.cn/info/1009/7364.htm)
 
 ## 北京交通大学
 
