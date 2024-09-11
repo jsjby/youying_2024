@@ -53,6 +53,8 @@
 
 【优营人数：22】[电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2777.htm)
 
+【优营人数：10】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/1813.htm)
+
 ## 中国人民大学
 
 【优营人数：257】[信息学院](http://info.ruc.edu.cn/xwgg/xygg/07bdb6be26e5480aad73f4e93d53ca7d.htm)
