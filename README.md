@@ -215,6 +215,10 @@
 
 【优营人数：112】[软件学院](https://csw.jlu.edu.cn/info/1156/7303.htm)
 
+## 山东大学
+
+【优营人数：30】[国优计划](https://www.cie.sdu.edu.cn/info/1033/4905.htm)
+
 ## 湖南大学
 
 【优营人数：50】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1909.htm)
