@@ -81,6 +81,8 @@
 
 ## 北京航空航天大学
 
+【优营人数：61】[自动化科学与电气工程学院](https://dept3.buaa.edu.cn/info/1066/6503.htm)
+
 【优营人数：12】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11352)
 
 【优营人数：327】[大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2284.htm)
@@ -163,6 +165,8 @@
 
 ## 中山大学
 
+【优营人数：70】[智能工程学院-推免](https://ise.sysu.edu.cn/notice/1416871.htm)
+
 【优营人数：105】[微电子科学与技术学院](https://mst.sysu.edu.cn/article/1011)
 
 【优营人数：25】[人工智能学院](https://sai.sysu.edu.cn/notice/1416390.htm)
@@ -201,6 +205,10 @@
 
 【优营人数：53】[数据科学与工程学院](https://dase.ecnu.edu.cn/7a/bd/c41465a621245/page.htm)
 
+## 华南理工学
+
+【优营人数：N/A】[软件学院](https://www2.scut.edu.cn/sse/2024/0924/c16798a562953/page.htm)
+
 ## 华中科技大学
 
 【优营人数：119】[武汉光电国家研究中心](https://wnlo.hust.edu.cn/info/1178/12603.htm)
@@ -218,6 +226,10 @@
 ## 山东大学
 
 【优营人数：30】[国优计划](https://www.cie.sdu.edu.cn/info/1033/4905.htm)
+
+【优营人数：172】[软件学院-推免](https://www.sc.sdu.edu.cn/info/1019/4898.htm)
+
+【优营人数：118】[信息学院-推免](https://www.ise.sdu.edu.cn/info/1025/13970.htm)
 
 ## 湖南大学
 
@@ -315,9 +327,13 @@
 
 【优营人数：61】[媒体融合与传播国家重点实验室](https://yz.cuc.edu.cn/2024/0719/c8544a235047/page.htm)
 
+## 安徽大学
+【优营人数：228】[计算机科学与技术学院](https://cs.ahu.edu.cn/_t740/2024/0923/c11157a348017/page.htm)
+
 ## 南京农业大学
 
-【优营人数：23】[人工智能学院](https://ai.njau.edu.cn/info/1009/3529.htm)
+【优营人数：35】[数学与信息科学学院](https://maths.gzhu.edu.cn/info/1066/5468.htm)
+
 
 ## 广州大学
 
