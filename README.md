@@ -233,6 +233,8 @@
 
 ## 湖南大学
 
+【优营人数：126】[机器人学院-国优计划和直博生](https://robotics.hnu.edu.cn/info/1074/2784.htm)
+
 【优营人数：50】[半导体学院（集成电路学院）](http://sic.hnu.edu.cn/info/1115/1909.htm)
 
 【优营人数：190】[信息科学与工程学院](https://csee.hnu.edu.cn/info/1062/13273.htm)
