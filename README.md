@@ -229,6 +229,10 @@
 
 【优营人数：172】[软件学院-推免](https://www.sc.sdu.edu.cn/info/1019/4898.htm)
 
+【优营人数：3】[计算机科学与技术学院-国家工程硕博-推免](https://www.cs.sdu.edu.cn/info/1068/6380.htm)
+
+【优营人数：4】[机电与信息工程学院-工程硕博-推免](https://ie.wh.sdu.edu.cn/info/1007/15122.htm)
+
 【优营人数：118】[信息学院-推免](https://www.ise.sdu.edu.cn/info/1025/13970.htm)
 
 ## 湖南大学
@@ -250,6 +254,8 @@
 【优营人数：87】[信通学院](https://ice.dlut.edu.cn/info/1208/3786.htm)
 
 ## 中国科学院
+
+【优营人数：54】[心理所](http://www.psych.cas.cn/edu/zsxx/sszs/202409/t20240920_7370148.html)
 
 【优营人数：93】[软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202407/t20240723_7234231.html)
 
@@ -330,6 +336,7 @@
 【优营人数：61】[媒体融合与传播国家重点实验室](https://yz.cuc.edu.cn/2024/0719/c8544a235047/page.htm)
 
 ## 安徽大学
+
 【优营人数：228】[计算机科学与技术学院](https://cs.ahu.edu.cn/_t740/2024/0923/c11157a348017/page.htm)
 
 ## 南京农业大学
